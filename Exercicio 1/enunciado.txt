@@ -1,0 +1,7 @@
+Considere um estabelecimento. Assuma chegada um processo de Poisson com taxa média de 2 pessoas/minuto. O cliente demora em média 20 segundos para ser atendido.
+
+a) Número médio de clientes no sistema.
+
+b) Tempo médio que o cliente fica do estabelecimento.
+
+c) Utilização do balcão.

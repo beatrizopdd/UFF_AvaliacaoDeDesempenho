@@ -1,0 +1,3 @@
+Questão: Pessoas chegam a uma padaria pela manhã, segundo um fluxo de Poisson, com taxa de 0.1 pessoas/minuto. As pessoas se dirigem ao balcão de serviço e depois seguem, em ordem de chegada, à fila do caixa. Existe uma única pessoa atendendo no balcão e o tempo desse atendimento pode ser modelado como exponencial com média de 2 minutos. O caixa atende um cliente num tempo também exponencial com média de 4 minutos. Responda as perguntas abaixo.
+• Quanto tempo uma pessoa gasta em média na padaria?
+• Qual a fração de tempo que o balcão de serviço fica ocioso?
